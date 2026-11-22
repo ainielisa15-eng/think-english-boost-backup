@@ -114,11 +114,11 @@ const Footer = () => {
                 <div className="flex items-center gap-3 mb-3">
                   <Mail className="w-4 h-4 flex-shrink-0" style={{ color: '#FFA500' }} />
                   <a 
-                    href="mailto:admin@thinkenglishlanguagecentre.net" 
+                    href="mailto:admin@telc.edu.my" 
                     className="text-white/80 hover:text-white transition-colors break-words whitespace-normal" 
                     aria-label="Email us"
                   >
-                    admin@thinkenglishlanguagecentre.net
+                    admin@telc.edu.my
                   </a>
                 </div>
                 <div className="flex items-center gap-3">
